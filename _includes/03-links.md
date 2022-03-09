@@ -1,2 +1,2 @@
-[github link](https://github.com/Bharadwaj-GLN)
-[instagram link](https://www.instagram.com/imbgln20/)
+[My GitHub](https://github.com/Bharadwaj-GLN)
+[My Instagram](https://www.instagram.com/imbgln20/)
