@@ -1,2 +1,4 @@
 # E-portfolio: Bharadwaj GLN
-## I am currently a student
+
+### Learning how to use github using these activities
+###### should be fun !
